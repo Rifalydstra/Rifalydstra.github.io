@@ -54,8 +54,8 @@ nav {
   margin-top: 15px;
   margin-bottom: 20px;
   max-width: 325px;
-  height: 153px;
-  padding: 23px;
+  height: 150px;
+  padding: 20px;
   border: 1px solid rgba(255, 255, 255, 0.25);
   border-radius: 20px;
   background-color: rgba(255, 255, 255, 0.45);
@@ -63,16 +63,16 @@ nav {
   backdrop-filter: blur(15px);
 }
 .card p {
-  font-size: 20px;
+  margin-top: 1px;
+  font-size: 21px;
   text-align: left;
   justify-content: left;
 }
 .card img {
   position: absolute;
-  left: 205px;
-  top: 49px;
-  right: 1px;
-  width: 27%;
+  top: 25px;
+  left: 190px;
+  width: 30%;
 }
  
 .isi{
