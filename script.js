@@ -13,7 +13,9 @@
   }
 
 if (screen.width > 600) {
-  alert("Maaf, aplikasi ini hanya bisa dibuka pada ponsel");
+  alert("Maaf, aplikasi ini hanya kompatibel pada perangkat ponsel");
+  
+  window.location.replace("https://www.google.com");
 }
 
 if (navigator.userAgent.match(/Computer|Laptop/i)) {
