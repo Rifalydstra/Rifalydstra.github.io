@@ -288,3 +288,111 @@ footer .column .social .text {
   transform: translateY(0px);
   opacity: 1;
 }
+
+@media screen and (min-width: 390px) {
+  .navbar-text {
+    font-size: 21px;
+    font-weight: bold;
+    margin-left: 5px;
+  }
+  .welcome {
+    padding-left: 20px;
+    font-size: 21px;
+    padding-left: 20px;
+  }
+  .welcome #good {
+    font-size: 18px;
+    padding-left: 14px;
+  }
+  .card {
+    max-width: 350px;
+    padding: 17px;
+  }
+  .card p {
+    font-size: 22px;
+    text-align: left;
+    justify-content: left;
+    padding-top: 5px;
+    padding-left: 10px;
+  }
+  .card img {
+    position: absolute;
+    top: 25px;
+    left: 210px;
+    width: 30%;
+  }
+  .isi {
+    width: 390px;
+  }
+  .wrapper label span{
+    font-size: 20px;
+    font-weight: 510;
+  }
+  .parent-tab .content .table {
+  font-size: 16px;
+  margin: 15px;
+  }
+  footer {
+    padding: 21px 35px;
+  }
+  footer .column p {
+    font-size: 1rem;
+  }
+}
+
+@media screen and (min-width: 400px) {
+  nav {
+    padding: 4px;
+  }
+  .navbar-text {
+    font-size: 21px;
+    font-weight: bold;
+    margin-left: 6px;
+  }
+  .navbar-logo img {
+    height: 54px;
+  }
+ .welcome {
+    padding-left: 22px;
+    font-size: 22px;
+  }
+  .welcome #good {
+    font-size: 19px;
+    padding-left: 14px;
+  }
+  .card {
+    max-width: 368px;
+    padding: 17px;
+  }
+  .card p {
+    font-size: 22px;
+    text-align: left;
+    justify-content: left;
+    padding-left: 10px;
+    padding-top: 5px;
+  }
+  .card img {
+    position: absolute;
+    top: 21px;
+    left: 220px;
+    width: 30%;
+  }
+  .isi {
+    width: 414px;
+  }
+  .wrapper label span{
+    font-size: 22px;
+    font-weight: 510;
+  }
+  .parent-tab .content .table {
+  font-size: 17px;
+  margin: 15px;
+  }
+  footer {
+    padding: 21px 35px;
+    min-height: 420px;
+  }
+  footer .column p {
+    font-size: 1.1rem;
+  }
+}
