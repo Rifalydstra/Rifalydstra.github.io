@@ -16,10 +16,6 @@ if (screen.width > 600) {
   alert("Maaf, aplikasi ini hanya kompatibel pada perangkat ponsel");
   
   window.location.replace("https://www.google.com");
-} else if (screen.width >= 370) {
-  alert("Maaf, aplikasi ini masih dalam tahap pengembangan dan tidak mendukung responsif");
-  
-  window.location.replace("https://www.google.com");
 }
 
 if (navigator.userAgent.match(/Computer|Laptop/i)) {
