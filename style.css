@@ -289,6 +289,53 @@ footer .column .social .text {
   opacity: 1;
 }
 
+@media screen and (max-width: 380px) and (min-width: 361px) {
+  .navbar-text {
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 5px;
+  }
+  .welcome {
+    padding-left: 20px;
+    font-size: 20px;
+  }
+  .welcome #good {
+    font-size: 18px;
+    padding-left: 14px;
+  }
+  .card {
+    max-width: 337px;
+    padding: 17px;
+  }
+  .card p {
+    font-size: 22px;
+    text-align: left;
+    justify-content: left;
+    padding-top: 5px;
+    padding-left: 10px;
+  }
+  .card img {
+    position: absolute;
+    top: 25px;
+    left: 210px;
+    width: 30%;
+  }
+  .isi {
+    width: 375px;
+  }
+  .wrapper label span{
+    font-size: 19px;
+    font-weight: 510;
+  }
+  .parent-tab .content .table {
+  font-size: 15px;
+  margin: 15px;
+  }
+  footer .column p {
+    font-size: 1rem;
+  }
+}
+
 @media screen and (min-width: 390px) {
   .navbar-text {
     font-size: 21px;
