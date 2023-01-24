@@ -79,7 +79,7 @@ nav {
   position: absolute;
   z-index: 10;
   top: 345px;
-  width: 360px;
+  width: 100%;
   height: auto;
   background-color: white;
   padding-top: 30px;
@@ -304,7 +304,7 @@ footer .column .social .text {
     padding-left: 14px;
   }
   .card {
-    max-width: 337px;
+    max-width: 94%;
     padding: 17px;
   }
   .card p {
@@ -321,7 +321,7 @@ footer .column .social .text {
     width: 30%;
   }
   .isi {
-    width: 375px;
+    width: 100%;
   }
   .wrapper label span{
     font-size: 19px;
@@ -352,7 +352,7 @@ footer .column .social .text {
     padding-left: 14px;
   }
   .card {
-    max-width: 350px;
+    max-width: 94%;
     padding: 17px;
   }
   .card p {
@@ -369,7 +369,7 @@ footer .column .social .text {
     width: 30%;
   }
   .isi {
-    width: 390px;
+    width: 100%;
   }
   .wrapper label span{
     font-size: 20px;
@@ -408,7 +408,7 @@ footer .column .social .text {
     padding-left: 14px;
   }
   .card {
-    max-width: 368px;
+    max-width: 95%;
     padding: 17px;
   }
   .card p {
@@ -425,7 +425,7 @@ footer .column .social .text {
     width: 30%;
   }
   .isi {
-    width: 414px;
+    width: 100%;
   }
   .wrapper label span{
     font-size: 22px;
